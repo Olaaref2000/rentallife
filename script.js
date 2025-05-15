@@ -1,0 +1,1 @@
+console.log('Rental Life Sydney loaded');
